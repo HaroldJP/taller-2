@@ -16,6 +16,7 @@ print(f"Los digitos del número son: {digitos}")
 ```
  ### Punto 2
 
+Desarrollar un programa que ingrese un número flotante n y separe su parte entera de la parte decimal, y luego entregue los dígitos tanto de la parte entera como de la decimal.
 
 
 ```python
