@@ -1,4 +1,7 @@
 # taller-2
+
+* GRUPO:
+  - Harold Jiménez
 ### Punto 1
 Desarrollar un programa que ingrese un número entero n y separe todos los digitos que componen el número. Pista: Utilice los operadores módulo (%) y división entera (//).
 
