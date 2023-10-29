@@ -287,3 +287,6 @@ resultado_acumulacion, resultado_comprension = multiplos_de_tres(lista)
 print("Enfoque de acumulación:", resultado_acumulacion)
 print("Enfoque de comprensión de listas:", resultado_comprension)
 ```
+
+No me fue posible hacer el notebook :(
+
